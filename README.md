@@ -103,5 +103,5 @@ Kami terbuka untuk semua kontribusi:
 ---
 
 <p align="center">
-  Dibangun oleh <a href="https://github.com/Rehannnaja">Rehannnaja</a> — Powered by open source 💚
+  Dibangun oleh <a href="https://github.com/Rehannnaja">!Taka Dev</a> — Powered by open source 💚
 </p>
